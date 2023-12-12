@@ -5,14 +5,11 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Usage](#usage)
-- [File Structure](#file-structure)
-- [License](#license)
 
 ## Description
 
-[Provide a brief description of your project, including what it does, the aim of the project, and key features. Feel free to include any relevant background information.]
+Hangman game built in python.
 
 ### What I Learned
 
-[Share insights or lessons you gained while working on this project. This could include new technologies, problem-solving skills, or any other learning experiences.]
+This project was useful to learn better python, seeing how OOP works in other languages but there is still room to improve.
